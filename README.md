@@ -6,7 +6,7 @@ Monsters Rolodex is a simple React application that displays a searchable list o
 
 ## Live Demo
 
-Check out the live demo of the project here: [Monsters Rolodex on Netlify](https://your-monsters-rolodex.netlify.app)
+Check out the live demo of the project here: [Monsters Rolodex](https://https://monsters-rodolex.netlify.app/)
 
 ## Features
 
